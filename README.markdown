@@ -1,3 +1,6 @@
+**FORK INFO**
+This fork updated the target against Eclipse Mars SR1, relaxing the dependencies in the main bundle for easier integration.
+
 **restfuse**  
 An open-source [JUnit](http://junit.org) extension for testing HTTP/REST services. Restfuse can also be used to test [asynchronous services](http://developer.eclipsesource.com/restfuse/).
 

@@ -3,7 +3,7 @@
    <feature url="features/com.eclipsesource.restfuse.additional.feature_1.2.0.qualifier.jar" id="com.eclipsesource.restfuse.additional.feature" version="1.2.0.qualifier">
       <category name="com.eclipsesource.restfuse"/>
    </feature>
-   <feature url="features/com.eclipsesource.restfuse.feature_1.2.0.qualifier.jar" id="com.eclipsesource.restfuse.feature" version="1.2.0.qualifier">
+   <feature url="features/com.eclipsesource.restfuse.feature_1.10.0.qualifier.jar" id="com.eclipsesource.restfuse.feature" version="1.10.0.qualifier">
       <category name="com.eclipsesource.restfuse"/>
    </feature>
    <category-def name="com.eclipsesource.restfuse" label="restfuse">

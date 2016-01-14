@@ -18,7 +18,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<kar-packager-version>0.4.0</kar-packager-version>
-		<tycho-version>0.16.0</tycho-version>
+		<tycho-version>0.24.0</tycho-version>
 		<tycho-extras-version>0.16.0</tycho-extras-version>
 		<tycho-groupid>org.eclipse.tycho</tycho-groupid>
 		<surefire-version>2.12</surefire-version>
@@ -92,7 +92,7 @@
 							<groupId>${project.groupId}</groupId>
 							<artifactId>${project.artifactId}</artifactId>
 							<version>${project.version}</version>
-							<classifier>${project.parent.relativePath}/../com.eclipsesource.restfuse.target/restfuse.1.2.0</classifier>
+							<classifier>${project.parent.relativePath}/../com.eclipsesource.restfuse.target/restfuse.1.10.0</classifier>
 						</artifact>
 					</target>
 					<environments>
